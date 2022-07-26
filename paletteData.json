@@ -40,10 +40,58 @@
     "watercolor": { "title":  "Акварель", "values":  [
       {
         "id": 0,
-        "name": "Bright-yellow",
-        "code": "Y14",
-        "imgSrc": "y14_bright_yellow.png",
-        "amount": "100",
+        "name": "Кадмий желтый",
+        "code": "201",
+        "imgSrc": "201_cadmium_yellow_medium.png",
+        "amount": "50",
+        "refill": "false"
+      },
+            {
+        "id": 1,
+        "name": "Кадмий лимонный",
+        "code": "202",
+        "imgSrc": "203_cadmium_lemon.png",
+        "amount": "98",
+        "refill": "false"
+      },
+                  {
+        "id": 2,
+        "name": "Желтый",
+        "code": "211",
+        "imgSrc": "211_yellow.png",
+        "amount": "98",
+        "refill": "false"
+      },
+                        {
+        "id": 3,
+        "name": "Золотистый",
+        "code": "216",
+        "imgSrc": "216_golden.png",
+        "amount": "98",
+        "refill": "false"
+      },
+                              {
+        "id": 4,
+        "name": "Золотистый темный",
+        "code": "217",
+        "imgSrc": "217_golden_deep.png",
+        "amount": "98",
+        "refill": "false"
+      },
+                                    {
+        "id": 5,
+        "name": "Охра желтая",
+        "code": "218",
+        "imgSrc": "218_yellow_ochre.png",
+        "amount": "70",
+        "refill": "false"
+      },
+                                          {
+        "id": 6,
+        "name": "Белила цинковые",
+        "code": "2",
+        "imgSrc": "2_zinc_white.png",
+        "amount": "40",
         "refill": "true"
       }
     ]},
